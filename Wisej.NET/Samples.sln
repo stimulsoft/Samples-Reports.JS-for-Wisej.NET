@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Showing a Report in the Viewer", "Showing a Report in the Viewer\Showing_a_Report_in_the_Viewer.NET8.csproj", "{2179DACB-365D-4519-9164-8F409CB33959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Showing_a_Report_in_the_Viewer.NET8", "Showing a Report in the Viewer\Showing_a_Report_in_the_Viewer.NET8.csproj", "{2179DACB-365D-4519-9164-8F409CB33959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Editing_a_Report_in_the_Designer.NET8", "Editing a Report in the Designer\Editing_a_Report_in_the_Designer.NET8.csproj", "{02FFC967-D968-40FA-9AEE-1DB25D1B74A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2179DACB-365D-4519-9164-8F409CB33959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2179DACB-365D-4519-9164-8F409CB33959}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2179DACB-365D-4519-9164-8F409CB33959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FFC967-D968-40FA-9AEE-1DB25D1B74A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FFC967-D968-40FA-9AEE-1DB25D1B74A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FFC967-D968-40FA-9AEE-1DB25D1B74A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FFC967-D968-40FA-9AEE-1DB25D1B74A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

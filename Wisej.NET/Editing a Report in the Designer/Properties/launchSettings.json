@@ -1,0 +1,12 @@
+{
+    "profiles": {
+        "Editing_a_Report_in_the_Designer.NET8": {
+            "commandName": "Project",
+            "launchBrowser": true,
+            "applicationUrl": "http://localhost:5000",
+                "environmentVariables": {
+                "WEBSITE_PATH": "$(MSBuildProjectDirectory)"
+            }
+        }
+    }
+}

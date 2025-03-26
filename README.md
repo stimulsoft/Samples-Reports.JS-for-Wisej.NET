@@ -4,6 +4,7 @@
 
 ## Overview
 This repository has a set of examples (Visual Studio projects), each in different folders:
+* [Editing a Report in the Designer](https://github.com/stimulsoft/Samples-Reports.JS-for-Wisej.NET/blob/main/Wisej.NET/Editing%20a%20Report%20in%20the%20Designer)
 * [Showing a Report in the Viewer](https://github.com/stimulsoft/Samples-Reports.JS-for-Wisej.NET/blob/main/Wisej.NET/Showing%20a%20Report%20in%20the%20Viewer)
 
 All examples are combined into Visual Studio solutions (.sln files). They are prepared only for LTS frameworks, any compatible ones can be selected in the project settings.
